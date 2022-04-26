@@ -1,3 +1,4 @@
 April 26th 2020.
 I continue on this journey and
 I hope to see its end! I can do this!
+trying commit without -m
